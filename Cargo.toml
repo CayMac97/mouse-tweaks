@@ -1,0 +1,11 @@
+[package]
+name = "horizon-mod-mouse-tweaks"
+version = "1.0.0"
+edition = "2024"
+authors = ["CayMac"]
+description = "Mouse Tweaks native mod for Horizon"
+
+[lib]
+path = "mixins/mouse_tweaks/runtime.rs"
+
+[dependencies]

@@ -1,0 +1,8 @@
+[mod]
+id = "mouse_tweaks"
+name = "Mouse Tweaks"
+version = "1.0.0"
+description = "RMB drag deposit, Shift+LMB drag quick-transfer, and scroll wheel item move."
+authors = ["CayMac"]
+kind = "native"
+entrypoint = "mixins/mouse_tweaks/runtime.rs"
